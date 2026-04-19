@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/8aa8fd22c0794fc4"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/plutoguy/plutohubv3/refs/heads/main/keysystem.lua"))()
